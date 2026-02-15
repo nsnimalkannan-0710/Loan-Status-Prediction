@@ -47,5 +47,5 @@ The dataset used is `loan_data.csv`, which contains the following features:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/loan-status-prediction.git
+   git clone https://github.com/nsnimalkannan-0710/loan-status-prediction.git
    cd loan-status-prediction
